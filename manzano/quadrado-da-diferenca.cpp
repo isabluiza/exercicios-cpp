@@ -1,4 +1,4 @@
-/*Ler dois inteiros (variáveis A e B) e imprimir o resultado do quadrado da diferença do primeiro valor pelo segundo. (MANZANO, p. 26)*/
+/*Ler dois inteiros (variáveis A e B) e imprimir o resultado do quadrado da diferença do primeiro valor pelo segundo.*/
 
 #include <stdio.h>
 #include <math.h>
