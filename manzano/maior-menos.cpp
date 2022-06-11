@@ -1,8 +1,6 @@
 /*Efetuar a leitura de dois números inteiros e identificar o maior e o menor valores.*/
 
 #include <stdio.h>
-#include <iostream>
-using namespace std;
 
 int main() {
     
