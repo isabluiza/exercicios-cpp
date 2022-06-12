@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(void) {
 
     int idade[4], indice;
@@ -15,7 +14,6 @@ int main(void) {
 
         printf("\nValor digitado: %d", idade[indice]);
     }
-
 
 return 0;
 }
