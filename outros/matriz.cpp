@@ -27,7 +27,6 @@ int main(void) {
 			
 		} while (linha=2);
 		
-		
 return 0;
 }
 
